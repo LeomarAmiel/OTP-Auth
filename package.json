@@ -1,0 +1,12 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "dependencies": {
+    "expo": "^25.0.0",
+    "firebase-admin": "^5.9.0",
+    "firebase-functions": "^0.8.1",
+    "react": "16.2.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-25.0.0.tar.gz",
+    "twilio": "^3.11.3"
+  }
+}

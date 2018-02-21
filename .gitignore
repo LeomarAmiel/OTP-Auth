@@ -1,0 +1,5 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+functions/serviceAccount.json
+functions/twilio.js
